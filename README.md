@@ -1,8 +1,8 @@
-#Library Management System
+# Library Management System
 
-#Group Members:
-#Muhammad Tariq		SP18-BSE-128
-#Muhammad Awais		SP18-BSE-141
+# Group Members:
+# Muhammad Tariq		SP18-BSE-128
+# Muhammad Awais		SP18-BSE-141
 
 Technologies: MERN
 # Getting Started with Create React App
